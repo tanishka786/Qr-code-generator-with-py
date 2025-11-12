@@ -34,7 +34,7 @@ or use for RGB QR code
 ```bash
 python new.py
 ``` 
-Step 2: Enter the URL,  for Fun try this mystery URL: https://www.youtube.com/watch?v=BRB2h0apXwo
+Step 2: Enter the URL (Whose QR code you want to generate) 
 
 Step 3: Congratulations!! Your QR is generated 😎✌🏻🌟
 <P align="center">
@@ -43,4 +43,5 @@ Step 3: Congratulations!! Your QR is generated 😎✌🏻🌟
 
 
 # Code like a PRO 😎🌟✌🏻  
+
 
