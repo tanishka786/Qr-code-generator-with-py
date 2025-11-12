@@ -39,8 +39,8 @@ Step 2: Enter the URL (Whose QR code you want to generate)
 Step 3: Congratulations!! Your QR is generated 😎✌🏻🌟
 <P align="center">
 <img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRxNjV0MW45Nnd1cGpmMWluM2E4d2Y2Nnd0dzhzaTV3MmZscGg3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif">
+<img src = "https://github.com/tanishka786/Qr-code-generator-with-py/blob/main/qrcode%20img/Mystery_rainbow.gif">
 </P>
-
 
 # Code like a PRO 😎🌟✌🏻  
 

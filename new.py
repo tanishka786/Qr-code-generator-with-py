@@ -15,7 +15,7 @@ file_name = input(
 file_name = re.sub(r'[\\/*?:"<>|]', "_", file_name)
 
 # === File Path Setup ===
-output_dir = r"C:\Users\TANISHKA\Desktop\qr code\qrcode img"
+output_dir = r"C:\\Users\\TANISHKA\\Desktop\\qr code\\qrcode img"
 os.makedirs(output_dir, exist_ok=True)
 file_path = os.path.join(output_dir, f"{file_name}_rainbow.gif")
 
