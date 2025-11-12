@@ -1,4 +1,4 @@
-# 🎯 QR Code Generator — Code like a PRO 😎🌟✌🏻  
+# 🎯 QR Code Generator
 > Thanks to BRO CODE 💻🔥  
 
 This project lets you **generate your own QR codes** easily using Python.  
@@ -26,20 +26,21 @@ pip install qrcode[pil]
 ```
 ## To run the code
 
-step1: 
+Step1: 
 ```bash
 python main.py 
 ```
-or use for RGB qrcode
+or use for RGB QR code
 ```bash
 python new.py
 ``` 
-step2: Enter the url,  for FUN try this mystery URL: https://www.youtube.com/watch?v=BRB2h0apXwo
+Step 2: Enter the URL,  for Fun try this mystery URL: https://www.youtube.com/watch?v=BRB2h0apXwo
 
-step3: Congratuaaltions!! your qr is generated 😎✌🏻🌟
+Step 3: Congratulations!! Your QR is generated 😎✌🏻🌟
 <P align="center">
 <img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRxNjV0MW45Nnd1cGpmMWluM2E4d2Y2Nnd0dzhzaTV3MmZscGg3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif">
 </P>
 
 
 # Code like a PRO 😎🌟✌🏻  
+
